@@ -1,0 +1,3 @@
+my story2
+chapter1 
+the first time edit in branch master
